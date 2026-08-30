@@ -1,0 +1,9 @@
+PROJECT OVERVIEW:
+Name: MediCare AI
+Goal: Automated medical triaging assistant for local clinics.
+Team: Hackathon Innovators
+
+KEY POLICIES:
+1. Diagnosis: MediCare AI analyzes user symptoms and predicts possible non-critical conditions.
+2. Emergency Protocol: For severe pain, bleeding, or breathing trouble, immediately advise dialing 112/911.
+3. Pricing: Free for rural healthcare centers; $10/month for private clinics.
